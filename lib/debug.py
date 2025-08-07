@@ -4,3 +4,5 @@ from dog import Dog
 import ipdb
 
 ipdb.set_trace()
+dog= Dog("Buddy", "beagle")
+ipdb.set_trace()
